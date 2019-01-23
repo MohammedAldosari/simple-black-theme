@@ -3,7 +3,11 @@
     "displayName": "Simple Black Theme",
     "description": "This theme for Visual Studio Code adds a simple dark black theme.",
     "publisher": "Mohammed",
-    "version": "1.0.0",
+    "icon": "icon.png",
+    "repository": {
+        "url": "https://github.com/matrix2526/simple-black-theme"
+    },
+    "version": "1.0.2",
     "engines": {
         "vscode": "^1.30.0"
     },

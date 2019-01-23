@@ -5,7 +5,7 @@
 This theme for Visual Studio Code adds a simple dark black theme.
 
 
-![alt](./Screenshot.png)
+![alt](https://github.com/matrix2526/simple-black-theme/raw/master/Screenshot.png)
 </center>
 
 # Installation
@@ -25,5 +25,7 @@ In order to use the theme follow these steps:
 # Authors
 
 Made with ❤️ by **Mohammed Hassan Aldosari** follow me in [Twitter](https://twitter.com/mhwdosari)
+
+> Icons made by [Pixel perfect](https://www.flaticon.com/authors/pixel-perfect) from www.flaticon.com is licensed by [CC 3.0](http://creativecommons.org/licenses/by/3.0/)
 
 Enjoy 😄
