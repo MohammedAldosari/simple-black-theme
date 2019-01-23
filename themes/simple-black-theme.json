@@ -1,0 +1,20 @@
+{
+	"$schema": "vscode://schemas/color-theme",
+	"include": "./dark_plus.json",
+	"name": "Simple Black Theme",
+	"type": "dark",
+	"colors": {
+		"activityBar.background": "#000000",
+		"sideBar.background": "#000000",
+		"menu.background": "#000000",
+		"tab.activeBackground": "#000000",
+		"tab.activeBorder": "#0076BF",
+		"tab.border": "#000000",
+		"tab.activeBorderTop": "#0076BF",
+		"tab.inactiveBackground": "#000000",
+		"editor.background": "#000000",
+		"titleBar.activeBackground": "#000000",
+		"editorGroupHeader.tabsBackground": "#000000",
+		"statusBar.background": "#000000"
+	}
+}
