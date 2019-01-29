@@ -7,7 +7,10 @@
     "repository": {
         "url": "https://github.com/matrix2526/simple-black-theme"
     },
-    "version": "1.0.2",
+    "scripts": {
+        "publish": "vsce publish -p dhhtilwucthsukzty7ifrsbx3blqyka7y6d5c6caztfj4ynxbeja"
+    },
+    "version": "1.0.4",
     "engines": {
         "vscode": "^1.30.0"
     },
